@@ -1,17 +1,50 @@
 .debug{
     border: 2px dashed red;
-    min-height: 3rem;
+    min-height: 2rem;
 }
 .box{
     color: white;
+}
+hr{
+    height: 3px;
+}
+.fs-4-mine{
+    font-size: 4rem;
+}
+.fs-3-mine{
+    font-size: 3rem;
 }
 img{
     width: 100%;
 }
 nav{
     background-color: #293847;
-    padding: 10px;
 }
 .jumbo{
     background: #1ABC9C;
+    /* padding: 50px 0; */
+}
+
+
+
+/* COLORS */
+.bg-blue{
+    background-color: #2C3E50;
+} 
+.blue{
+    color: #2C3E50;
+}
+.bg-white{
+    background: #FFFFFF;
+}
+.white{
+    color: #FFFFFF;
+}
+.f-blue{
+    background: #3A546D;
+    color: #3A546D;
+}
+.ff-blue{
+    background: #27333F;
+    color: #27333F;
 }
