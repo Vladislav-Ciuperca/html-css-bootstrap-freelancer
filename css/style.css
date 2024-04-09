@@ -6,7 +6,8 @@
     color: white;
 }
 hr{
-    height: 3px;
+    height: 4px;
+    border: none;
 }
 .fs-4-mine{
     font-size: 4rem;
@@ -20,14 +21,13 @@ img{
 nav{
     background-color: #293847;
 }
-.jumbo{
-    background: #1ABC9C;
-    /* padding: 50px 0; */
-}
 
 
 
 /* COLORS */
+.bg-cyan{
+    background: #1ABC9C;
+}
 .bg-blue{
     background-color: #2C3E50;
 } 
@@ -40,11 +40,9 @@ nav{
 .white{
     color: #FFFFFF;
 }
-.f-blue{
+.bg-f-blue{
     background: #3A546D;
-    color: #3A546D;
 }
-.ff-blue{
+.bg-ff-blue{
     background: #27333F;
-    color: #27333F;
 }
