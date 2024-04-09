@@ -2,6 +2,9 @@
     border: 2px dashed red;
     min-height: 2rem;
 }
+.control{
+    border: 2px dashed greenyellow;
+}
 .box{
     color: white;
 }
@@ -45,4 +48,10 @@ nav{
 }
 .bg-ff-blue{
     background: #27333F;
+}
+.green{
+    color: #157347;
+}
+.aqua{
+    color: #249C8C;
 }
