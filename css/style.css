@@ -25,14 +25,17 @@ nav{
     background-color: #293847;
 }
 
-
+.navbar-toggler{
+    color: white;
+    background: white;
+}
 
 /* COLORS */
 .bg-cyan{
     background: #1ABC9C;
 }
 .bg-blue{
-    background-color: #2C3E50;
+    background-color: #293847;
 } 
 .blue{
     color: #2C3E50;
